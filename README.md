@@ -50,4 +50,3 @@ This repository supports a cross-sectional, exploratory analysis. The clusters r
 ## Author
 Julieta Pappano  
 Public Policy Specialist  
-Focused on innovation, digitalisation, and sustainable development policy
