@@ -1,6 +1,6 @@
 # Policy Pathways for Sustainable Cooling Markets
 
-This repository contains the analytical code and datasets supporting my Master’s thesis, *Policy Pathways for Sustainable Cooling Markets: Enabling Business Model Innovation in the Global South*. The project applies unsupervised clustering techniques to identify distinct country profiles among Article 5 countries under the Montreal Protocol, based on policy, financial, and digital enabling conditions for sustainable cooling business models. 
+This repository contains the analytical code and datasets supporting my Master’s thesisin Digital Economy, *Policy Pathways for Sustainable Cooling Markets: Enabling Business Model Innovation in the Global South*. The project applies unsupervised clustering techniques to identify distinct country profiles among Article 5 countries under the Montreal Protocol, based on policy, financial, and digital enabling conditions for sustainable cooling business models. 
 
 This quantitative approach is supported by a qualitative analysis of policy instruments, which are identified and structured to capture how different regulatory, financial, and digital tools shape the feasibility of business model innovation. These instruments are used not only to inform the construction of the clustering framework, but also to analyse the policy implications of each cluster and identify differentiated policy pathways tailored to specific country profiles.
 
